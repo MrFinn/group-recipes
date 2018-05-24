@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ultimate Meringue #
 ### Perfect your whisking skills for these light baked meringues - a blank canvas for tasty flavor combinations. ###
 #### Ingredients ####
@@ -11,3 +12,8 @@
 4. Sift 1 third of the 115g icing sugar over the mix and gently fold in with a big spoon. Continue to sift an fold the remaining sugar.
 5. Scoop up a heap of the meringue mixture, and place roughly onto the baking sheets.
 6. Bake for 1 and a half hours, or until crisp. Once cooked, leave to cool.
+=======
+# Group recipes
+
+- [Chicken Massaman](chicken-massaman.md)
+>>>>>>> master
