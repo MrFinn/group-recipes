@@ -1,6 +1,4 @@
-# Group recipes
-
-## Pasta Alfredo
+# Pasta Alfredo
 
 Cooking time - 30mins
 Serving - 6 people
@@ -8,13 +6,13 @@ Calories - 964
 
 ## Ingredients
 
-1. 24 ounces dry fettuccini pasta 
-2. 1 cup butter
-3. 1 dash garlic
-4. 3/4 cup grated Romano cheese
-5. 3/4 pint heavy cream
-6. 1/2 cup grated Parmesan cheese
-7. Salt and pepper to taste
+- 24 ounces dry fettuccini pasta 
+- 1 cup butter
+- 1 dash garlic
+- 3/4 cup grated Romano cheese
+- 3/4 pint heavy cream
+- 1/2 cup grated Parmesan cheese
+- Salt and pepper to taste
 
 ## Method
 

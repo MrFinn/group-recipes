@@ -1,11 +1,11 @@
 # Ultimate Spaghetti Carbonara Recipe.md 
 
 
-Discover how to make our best spaghetti carbonara recipe. This cheesy pasta dish is an Italian favourite and, with a little help from Gennaro Contaldo, you can make it perfect every time
+##Discover how to make our best spaghetti carbonara recipe. This cheesy pasta dish is an Italian favourite and, with a little help from Gennaro Contaldo, you can make it perfect every time
 
-### PREP: 15 MINS - 20 MINS
-### COOK: 15 MINS
-### EASY	SERVES 4
+ PREP: 15 MINS - 20 MINS
+ COOK: 15 MINS
+ EASY	SERVES 4
 
 
 

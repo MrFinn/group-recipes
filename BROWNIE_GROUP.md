@@ -1,7 +1,7 @@
 # Delicious Chewy Dark Chocolate Brownies
 ## _A secret recipe from my great-grandmother_
 
-## **Ingredients**
+## Ingredients
 
 - ½ cup flour
 - 1 cup sugar
@@ -9,7 +9,7 @@
 - 2 eggs
 - 1/3 cup cocoa powder
 
-## **Method**
+## Method
 
 1. pepare the ingredients: Preheat the oven to 350°F. Grease a 9-by-9-inch baking pan.
 

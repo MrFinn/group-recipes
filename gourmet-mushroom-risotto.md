@@ -1,8 +1,10 @@
 # Gourmet Mushroom Risotto
+
 - _cups chicken broth_
 - _divided3 tablespoons olive oil_
 - _divided1 pound portobello mushrooms_
 - _thinly sliced1 pound white mushrooms_
+
 thinly sliced2 shallots
 diced1 1/2 cups Arborio rice1/2 cup
 dry white winesea salt to tastefreshly
